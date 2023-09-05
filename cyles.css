@@ -1,0 +1,157 @@
+@charset "utf-8";
+h1 {
+	font-family: lobster;
+	font-style: normal;
+	font-weight: 400;
+}
+header p {
+	text-align: center;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	width: auto;
+	height: auto;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+body header img {
+	width: 100px;
+	height: 110px;
+	margin-left: 46%;
+	margin-right: 49%;
+}
+
+
+footer {
+	background-color: #000000;
+	color: #FFFFFF;
+	text-align: center;
+	margin-top: 210px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	font-size: x-small;
+	font-weight: 500;
+}
+header nav p {
+	background-color: #000000;
+	color: #FFFFFF;
+	text-align: center;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	font-size: x-large;
+}
+.SectionTop {
+	margin-top: 60px;
+}
+.SectionTop h1 {
+	margin-right: 100px;
+	margin-left: 80px;
+	padding-top: 40px;
+	text-align: left;
+	padding-bottom: 12px;
+	text-shadow: 2px 2px 1px;
+	font-size: xx-large;
+	margin-bottom: 50px;
+	color: #FFFFFF;
+	font-style: italic;
+	text-decoration: none;
+}
+.SectionTop p {
+	margin-bottom: 0%;
+	bottom: auto;
+	text-align: left;
+	top: 63px;
+	position: absolute;
+	left: 270px;
+	width: 1410px;
+	height: 96px;
+	margin-top: 10%;
+	color: #FFFFFF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: x-large;
+}
+.SectionMid {
+	margin-top: 120px;
+}
+.SectionMid h1 {
+	text-align: left;
+	text-shadow: 2px 2px 1px;
+	font-size: xx-large;
+	margin-right: 100px;
+	margin-left: 80px;
+	padding-top: 40px;
+	padding-bottom: 12px;
+	margin-bottom: 50px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.SectionMid p {
+	margin-bottom: 0%;
+	bottom: auto;
+	text-align: left;
+	top: 255px;
+	position: absolute;
+	padding-bottom: 50px;
+	left: 270px;
+	width: 1410px;
+	height: 91px;
+	margin-top: 10%;
+	color: #FFFFFF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: x-large;
+}
+.SectionDown {
+	margin-top: 120px;
+	margin-bottom: 120px;
+}
+.SectionDown h1 {
+	text-align: left;
+	text-shadow: 2px 2px 1px;
+	font-size: xx-large;
+	margin-right: 100px;
+	margin-left: 80px;
+	padding-top: 40px;
+	padding-bottom: 12px;
+	margin-bottom: 50px;
+	color: #FFFFFF;
+}
+.SectionDown p {
+	margin-bottom: 0%;
+	bottom: auto;
+	text-align: left;
+	top: 479px;
+	position: absolute;
+	padding-bottom: 50px;
+	left: 270px;
+	width: 1410px;
+	height: 100px;
+	margin-top: 10%;
+	background-size: cover;
+	color: #FFFFFF;
+	font-size: x-large;
+}
+
+
+
+.SectionDown {
+}
+body {
+	background-image: url(Assets/bkgd.jpg);
+	background-size: cover;
+}
